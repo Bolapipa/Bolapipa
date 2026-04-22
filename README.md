@@ -12,15 +12,15 @@
 
 ## About Me
 
-Data Engineer focused on building reliable pipelines, organizing data with clarity, and creating scalable solutions for analytical and operational use.
+I am a Data Engineer focused on building reliable data pipelines, organizing data with clarity, and transforming raw data into useful information for analytics and operations.
 
-Today, at `OceanPact`, I work on ingestion, transformation, and data organization in cloud environments using `Python`, `Spark`, `SQL`, `Azure Databricks`, and modern deployment practices.
+Currently, I work at `OceanPact`, where I support data ingestion, transformation, data organization, and cloud-based solutions using `Python`, `SQL`, `Spark`, `Azure`, and `Azure Databricks`.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Role-Data%20Engineer-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Role" />
-<img src="https://img.shields.io/badge/Current%20Company-OceanPact-1D4ED8?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Current Company" />
-<img src="https://img.shields.io/badge/Location-Rio%20de%20Janeiro-0891B2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/Data%20Engineer-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Data Engineer" />
+<img src="https://img.shields.io/badge/OceanPact-1D4ED8?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="OceanPact" />
+<img src="https://img.shields.io/badge/Rio%20de%20Janeiro-0891B2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Rio de Janeiro" />
 
 </div>
 
