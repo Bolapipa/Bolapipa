@@ -12,27 +12,17 @@
 
 ## About Me
 
-```yaml
-name: Arthur Delacorte
-role: Data Engineer
-current_position: Data Engineering Intern at OceanPact
-focus:
-  - Data pipelines
-  - Data modeling
-  - Cloud data architecture
-  - Data quality and reliability
-main_stack:
-  - Python
-  - SQL
-  - PySpark
-  - Azure
-  - Azure Databricks
-  - Azure Data Factory
-```
+Data Engineer focused on building reliable pipelines, organizing data with clarity, and creating scalable solutions for analytical and operational use.
 
-I work with data engineering focused on building reliable pipelines, organizing data with clarity, and creating scalable solutions for analytical and operational use.
+Today, at `OceanPact`, I work on ingestion, transformation, and data organization in cloud environments using `Python`, `Spark`, `SQL`, `Azure Databricks`, and modern deployment practices.
 
-Today, at `OceanPact`, I work on ingestion, transformation, and data organization in cloud environments, using `Python`, `Spark`, `SQL`, `Azure Databricks`, `Azure Storage`, and deployment automation practices.
+<div align="center">
+
+| Role | Current Focus | Main Stack |
+| --- | --- | --- |
+| Data Engineer | Pipelines, Modeling, Cloud Architecture, Data Quality | Python, SQL, PySpark, Azure, Databricks, ADF |
+
+</div>
 
 ## Core Skills
 
@@ -47,6 +37,16 @@ Today, at `OceanPact`, I work on ingestion, transformation, and data organizatio
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+</div>
+
+## Current Focus
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Data%20Pipelines-0F172A?style=flat-square&logo=apacheairflow&logoColor=white" alt="Data Pipelines" />
+  <img src="https://img.shields.io/badge/Data%20Modeling-1D4ED8?style=flat-square&logo=databricks&logoColor=white" alt="Data Modeling" />
+  <img src="https://img.shields.io/badge/Cloud%20Architecture-0891B2?style=flat-square&logo=microsoftazure&logoColor=white" alt="Cloud Architecture" />
+  <img src="https://img.shields.io/badge/Data%20Quality-0EA5E9?style=flat-square&logo=checkmarx&logoColor=white" alt="Data Quality" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2563EB?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
 </div>
 
 ## What I Do
@@ -65,7 +65,7 @@ Today, at `OceanPact`, I work on ingestion, transformation, and data organizatio
 
 - Built a centralized corporate data repository in Databricks
 - Structured medallion architecture with `bronze`, `silver`, and `gold` layers
-- Developed and maintained ingestion and transformation pipelines
+- Developed ingestion and transformation pipelines with focus on reliability and standardization
 - Supported environment configuration with `Azure AD`, `Service Principals`, and `Azure DevOps`
 
 ### Vesuvius Refratarios
@@ -90,11 +90,24 @@ Key highlights:
 - Pipelines managed with `Databricks Asset Bundles`
 - Focus on governance, documentation, and standardization
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Lakehouse-0F172A?style=flat-square&logo=databricks&logoColor=white" alt="Lakehouse" />
+  <img src="https://img.shields.io/badge/Medallion%20Architecture-1D4ED8?style=flat-square&logo=apachehive&logoColor=white" alt="Medallion" />
+  <img src="https://img.shields.io/badge/Incremental%20Loads-0891B2?style=flat-square&logo=apachekafka&logoColor=white" alt="Incremental Loads" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2563EB?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
+</div>
+
 ## Education
 
 - `Software Engineering` - Universidade Estacio de Sa
 - `Industrial Automation Technician` - Firjan Senai
 - `English` - Intermediate
+
+## Professional Strengths
+
+- Strong focus on simple, readable, and scalable solutions
+- Good balance between technical execution, documentation, and reliability
+- Hands-on mindset for turning business needs into organized data workflows
 
 ## GitHub Analytics
 
