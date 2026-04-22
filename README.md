@@ -21,7 +21,6 @@ Currently, I work at `OceanPact`, where I support data ingestion, transformation
 ### Current Role
 
 <img src="https://img.shields.io/badge/Data%20Engineer-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Data Engineer" />
-<img src="https://img.shields.io/badge/OceanPact-1D4ED8?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="OceanPact" />
 <img src="https://img.shields.io/badge/Rio%20de%20Janeiro-0891B2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Rio de Janeiro" />
 
 ### Tools I Work With
