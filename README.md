@@ -14,7 +14,9 @@
 
 I am a Data Engineer focused on building reliable data pipelines, organizing data with clarity, and transforming raw data into useful information for analytics and operations.
 
-Currently, I work at `OceanPact`, where I support data ingestion, transformation, data modeling, and cloud-based solutions.
+Currently, I work at `OceanPact`, where I support data ingestion, transformation, data modeling, cloud-based solutions, and version control practices using tools such as `Git`, `GitHub`, `GitLab`, and `Azure DevOps`.
+
+I also have experience using AI models such as `Mistral` to read PDF documents, extract structured information, and transform document data into tables for analytical use cases.
 
 <div align="center">
 
@@ -77,11 +79,16 @@ Currently, I work at `OceanPact`, where I support data ingestion, transformation
 ## Current Focus
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Data%20Pipelines-0F172A?style=flat-square&logo=apacheairflow&logoColor=white" alt="Data Pipelines" />
-  <img src="https://img.shields.io/badge/Data%20Modeling-1D4ED8?style=flat-square&logo=databricks&logoColor=white" alt="Data Modeling" />
-  <img src="https://img.shields.io/badge/Cloud%20Architecture-0891B2?style=flat-square&logo=microsoftazure&logoColor=white" alt="Cloud Architecture" />
-  <img src="https://img.shields.io/badge/Data%20Quality-0EA5E9?style=flat-square&logo=checkmarx&logoColor=white" alt="Data Quality" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2563EB?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
+
+<img src="https://img.shields.io/badge/Data%20Pipelines-0F172A?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Data Pipelines" />
+<img src="https://img.shields.io/badge/Data%20Modeling-1E3A8A?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Modeling" />
+<img src="https://img.shields.io/badge/Data%20Quality-0891B2?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Data Quality" />
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+<img src="https://img.shields.io/badge/Databricks%20Asset%20Bundles-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Asset Bundles" />
+<img src="https://img.shields.io/badge/Databricks%20Genie-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Genie" />
+<img src="https://img.shields.io/badge/PDF%20to%20Tables-6D28D9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PDF to Tables" />
+<img src="https://img.shields.io/badge/Mistral%20AI-000000?style=for-the-badge&logo=mistralai&logoColor=white" alt="Mistral AI" />
+
 </div>
 
 ## What I Do
