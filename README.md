@@ -18,9 +18,29 @@ Today, at `OceanPact`, I work on ingestion, transformation, and data organizatio
 
 <div align="center">
 
-| Role | Current Focus | Main Stack |
-| --- | --- | --- |
-| Data Engineer | Pipelines, Modeling, Cloud Architecture, Data Quality | Python, SQL, PySpark, Azure, Databricks, ADF |
+<img src="https://img.shields.io/badge/Role-Data%20Engineer-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Role" />
+<img src="https://img.shields.io/badge/Current%20Company-OceanPact-1D4ED8?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Current Company" />
+<img src="https://img.shields.io/badge/Location-Rio%20de%20Janeiro-0891B2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Focus-Data%20Pipelines-111827?style=flat-square&logo=apacheairflow&logoColor=white" alt="Data Pipelines" />
+<img src="https://img.shields.io/badge/Focus-Data%20Modeling-1E3A8A?style=flat-square&logo=databricks&logoColor=white" alt="Data Modeling" />
+<img src="https://img.shields.io/badge/Focus-Cloud%20Architecture-0369A1?style=flat-square&logo=microsoftazure&logoColor=white" alt="Cloud Architecture" />
+<img src="https://img.shields.io/badge/Focus-Data%20Quality-0284C7?style=flat-square&logo=datadog&logoColor=white" alt="Data Quality" />
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Stack-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Stack-SQL-0F172A?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Stack-PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
+<img src="https://img.shields.io/badge/Stack-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+<img src="https://img.shields.io/badge/Stack-Databricks-EF3E42?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" />
+<img src="https://img.shields.io/badge/Stack-ADF-0062AD?style=flat-square&logo=microsoftazure&logoColor=white" alt="ADF" />
 
 </div>
 
