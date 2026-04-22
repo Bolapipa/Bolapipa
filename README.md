@@ -64,16 +64,16 @@ I also have experience using AI models such as `Mistral` to read PDF documents, 
 ## Core Skills
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Azure%20Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white" alt="Azure Databricks" />
-  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0062AD?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Factory" />
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+
+<img src="https://img.shields.io/badge/Data%20Pipelines-0F172A?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Data Pipelines" />
+<img src="https://img.shields.io/badge/Data%20Modeling-1E3A8A?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Modeling" />
+<img src="https://img.shields.io/badge/Star%20Schema-2563EB?style=for-the-badge&logo=databricks&logoColor=white" alt="Star Schema" />
+<img src="https://img.shields.io/badge/Medallion%20Architecture-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Medallion Architecture" />
+<img src="https://img.shields.io/badge/ETL%20%2F%20ELT-0891B2?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="ETL / ELT" />
+<img src="https://img.shields.io/badge/Data%20Quality-16A34A?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Data Quality" />
+<img src="https://img.shields.io/badge/Cloud%20Data%20Architecture-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Cloud Data Architecture" />
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+
 </div>
 
 ## Current Focus
