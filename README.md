@@ -14,13 +14,28 @@
 
 I am a Data Engineer focused on building reliable data pipelines, organizing data with clarity, and transforming raw data into useful information for analytics and operations.
 
-Currently, I work at `OceanPact`, where I support data ingestion, transformation, data organization, and cloud-based solutions using `Python`, `SQL`, `Spark`, `Azure`, and `Azure Databricks`.
+Currently, I work at `OceanPact`, where I support data ingestion, transformation, data modeling, and cloud-based solutions.
 
 <div align="center">
+
+### Current Role
 
 <img src="https://img.shields.io/badge/Data%20Engineer-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Data Engineer" />
 <img src="https://img.shields.io/badge/OceanPact-1D4ED8?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="OceanPact" />
 <img src="https://img.shields.io/badge/Rio%20de%20Janeiro-0891B2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Rio de Janeiro" />
+
+### Tools I Work With
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+<img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Factory" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
 
 </div>
 
