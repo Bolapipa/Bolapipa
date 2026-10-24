@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Arthur%20Delacorte&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20Python%20%7C%20SQL%20%7C%20Azure%20%7C%20Databricks&descAlignY=58" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07120F,50:10B981,100:34D399&height=220&section=header&text=Arthur%20Delacorte&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20Python%20%7C%20SQL%20%7C%20Azure%20%7C%20Databricks&descAlignY=58" alt="Header" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Building+reliable+data+pipelines;Turning+raw+data+into+trusted+information;Python+%7C+SQL+%7C+PySpark+%7C+Azure+Databricks)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=34D399&center=true&vCenter=true&width=900&lines=Building+reliable+data+pipelines;Turning+raw+data+into+trusted+information;Python+%7C+SQL+%7C+PySpark+%7C+Azure+Databricks)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Delacorte-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-viana-delacorte/)
 [![Email](https://img.shields.io/badge/Email-delacortearthur%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:delacortearthur@gmail.com)
@@ -22,8 +22,8 @@ I also have experience using AI models such as `Mistral` to read PDF documents, 
 
 ### Current Role
 
-<img src="https://img.shields.io/badge/Data%20Engineer-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Data Engineer" />
-<img src="https://img.shields.io/badge/Rio%20de%20Janeiro-0891B2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Rio de Janeiro" />
+<img src="https://img.shields.io/badge/Data%20Engineer-064E3B?style=for-the-badge&logo=github&logoColor=white" alt="Data Engineer" />
+<img src="https://img.shields.io/badge/Rio%20de%20Janeiro-059669?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Rio de Janeiro" />
 
 ### Tools I Work With
 
@@ -44,16 +44,16 @@ I also have experience using AI models such as `Mistral` to read PDF documents, 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Focus-Data%20Pipelines-111827?style=flat-square&logo=apacheairflow&logoColor=white" alt="Data Pipelines" />
-<img src="https://img.shields.io/badge/Focus-Data%20Modeling-1E3A8A?style=flat-square&logo=databricks&logoColor=white" alt="Data Modeling" />
-<img src="https://img.shields.io/badge/Focus-Cloud%20Architecture-0369A1?style=flat-square&logo=microsoftazure&logoColor=white" alt="Cloud Architecture" />
-<img src="https://img.shields.io/badge/Focus-Data%20Quality-0284C7?style=flat-square&logo=datadog&logoColor=white" alt="Data Quality" />
+<img src="https://img.shields.io/badge/Focus-Data%20Modeling-065F46?style=flat-square&logo=databricks&logoColor=white" alt="Data Modeling" />
+<img src="https://img.shields.io/badge/Focus-Cloud%20Architecture-047857?style=flat-square&logo=microsoftazure&logoColor=white" alt="Cloud Architecture" />
+<img src="https://img.shields.io/badge/Focus-Data%20Quality-059669?style=flat-square&logo=datadog&logoColor=white" alt="Data Quality" />
 
 </div>
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Stack-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Stack-SQL-0F172A?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Stack-SQL-064E3B?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 <img src="https://img.shields.io/badge/Stack-PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
 <img src="https://img.shields.io/badge/Stack-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
 <img src="https://img.shields.io/badge/Stack-Databricks-EF3E42?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" />
@@ -65,11 +65,11 @@ I also have experience using AI models such as `Mistral` to read PDF documents, 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Data%20Pipelines-0F172A?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Data Pipelines" />
-<img src="https://img.shields.io/badge/Data%20Modeling-1E3A8A?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Modeling" />
-<img src="https://img.shields.io/badge/Star%20Schema-2563EB?style=for-the-badge&logo=databricks&logoColor=white" alt="Star Schema" />
+<img src="https://img.shields.io/badge/Data%20Pipelines-064E3B?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Data Pipelines" />
+<img src="https://img.shields.io/badge/Data%20Modeling-065F46?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Modeling" />
+<img src="https://img.shields.io/badge/Star%20Schema-047857?style=for-the-badge&logo=databricks&logoColor=white" alt="Star Schema" />
 <img src="https://img.shields.io/badge/Medallion%20Architecture-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Medallion Architecture" />
-<img src="https://img.shields.io/badge/ETL%20%2F%20ELT-0891B2?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="ETL / ELT" />
+<img src="https://img.shields.io/badge/ETL%20%2F%20ELT-059669?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="ETL / ELT" />
 <img src="https://img.shields.io/badge/Data%20Quality-16A34A?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Data Quality" />
 <img src="https://img.shields.io/badge/Cloud%20Data%20Architecture-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Cloud Data Architecture" />
 <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
@@ -80,9 +80,9 @@ I also have experience using AI models such as `Mistral` to read PDF documents, 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Data%20Pipelines-0F172A?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Data Pipelines" />
-<img src="https://img.shields.io/badge/Data%20Modeling-1E3A8A?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Modeling" />
-<img src="https://img.shields.io/badge/Data%20Quality-0891B2?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Data Quality" />
+<img src="https://img.shields.io/badge/Data%20Pipelines-064E3B?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Data Pipelines" />
+<img src="https://img.shields.io/badge/Data%20Modeling-065F46?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Modeling" />
+<img src="https://img.shields.io/badge/Data%20Quality-059669?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Data Quality" />
 <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
 <img src="https://img.shields.io/badge/Databricks%20Asset%20Bundles-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Asset Bundles" />
 <img src="https://img.shields.io/badge/Databricks%20Genie-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Genie" />
@@ -133,10 +133,10 @@ Key highlights:
 - Focus on governance, documentation, and standardization
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Lakehouse-0F172A?style=flat-square&logo=databricks&logoColor=white" alt="Lakehouse" />
-  <img src="https://img.shields.io/badge/Medallion%20Architecture-1D4ED8?style=flat-square&logo=apachehive&logoColor=white" alt="Medallion" />
-  <img src="https://img.shields.io/badge/Incremental%20Loads-0891B2?style=flat-square&logo=apachekafka&logoColor=white" alt="Incremental Loads" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2563EB?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Lakehouse-064E3B?style=flat-square&logo=databricks&logoColor=white" alt="Lakehouse" />
+  <img src="https://img.shields.io/badge/Medallion%20Architecture-047857?style=flat-square&logo=apachehive&logoColor=white" alt="Medallion" />
+  <img src="https://img.shields.io/badge/Incremental%20Loads-059669?style=flat-square&logo=apachekafka&logoColor=white" alt="Incremental Loads" />
+  <img src="https://img.shields.io/badge/CI%2FCD-047857?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
 </div>
 
 ## Education
@@ -154,22 +154,22 @@ Key highlights:
 ## GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bolapipa&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bolapipa&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bolapipa&show_icons=true&theme=transparent&hide_border=true&title_color=34d399&icon_color=34d399&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bolapipa&layout=compact&theme=transparent&hide_border=true&title_color=34d399" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Bolapipa&theme=transparent&hide_border=true" alt="GitHub streak" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Bolapipa&theme=transparent&hide_border=true&ring=34d399&fire=34d399&currStreakLabel=34d399" alt="GitHub streak" />
 </div>
 
 ## Featured Repositories
 
 <div align="center">
   <a href="https://github.com/Bolapipa/project_lake_house">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Bolapipa&repo=project_lake_house&theme=transparent&hide_border=true" alt="project_lake_house" />
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Bolapipa&repo=project_lake_house&theme=transparent&hide_border=true&title_color=34d399&icon_color=34d399" alt="project_lake_house" />
   </a>
   <a href="https://github.com/Bolapipa/bank-project">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Bolapipa&repo=bank-project&theme=transparent&hide_border=true" alt="bank-project" />
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Bolapipa&repo=bank-project&theme=transparent&hide_border=true&title_color=34d399&icon_color=34d399" alt="bank-project" />
   </a>
 </div>
 
@@ -189,5 +189,5 @@ Key highlights:
 
 <div align="center">
   <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=120&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07120F,50:10B981,100:34D399&height=120&section=footer" alt="Footer" />
 </div>
